@@ -38,10 +38,11 @@ has been replaced with:
 ```css
 .container {
   width: 99% !important;
-  max-width: 980px !important;
   ...
   ...
 }
 ```
+
+@devstuff: removed the `max-width: 980px !important;` line in both container classes to maximize the width for larger monitors.
 
 That's it :smiley: no other magic required.
