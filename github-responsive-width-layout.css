@@ -6,13 +6,13 @@ body {
 
 .header .container {
   width: 99% !important;
-  max-width: 980px !important;
+  /* max-width: 980px !important; */
   min-width: 0 !important;
 }
 
 .container {
   width: 99% !important;
-  max-width: 980px !important;
+  /* max-width: 980px !important; */
   min-width: 0 !important;
 }
 
